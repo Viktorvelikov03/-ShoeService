@@ -1,0 +1,12 @@
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\bin\Debug\net8.0\ShoeService.Models.deps.json
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\bin\Debug\net8.0\ShoeService.Models.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\bin\Debug\net8.0\ShoeService.Models.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.csproj.AssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.AssemblyInfoInputs.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.AssemblyInfo.cs
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\refint\ShoeService.Models.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ShoeService.Models.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.Models\obj\Debug\net8.0\ref\ShoeService.Models.dll

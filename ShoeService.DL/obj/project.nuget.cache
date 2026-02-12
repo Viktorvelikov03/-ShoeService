@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UKyecXUuZQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Documents\\GitHub\\ShoeService\\ShoeService\\ShoeService.DL\\ShoeService.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.BL.deps.json
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.BL.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.BL.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.DL.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.Models.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.DL.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\bin\Debug\net8.0\ShoeService.Models.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.csproj.AssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.AssemblyInfoInputs.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.AssemblyInfo.cs
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeServ.DDC8A58A.Up2Date
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\refint\ShoeService.BL.dll
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ShoeService.BL.pdb
+C:\Users\Viktor\Documents\GitHub\ShoeService\ShoeService\ShoeService.BL\obj\Debug\net8.0\ref\ShoeService.BL.dll
